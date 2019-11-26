@@ -56,3 +56,12 @@ width = 9
 
 # 変数lengthと変数widthを掛けて出力してください
 puts length * width
+
+# 1-8
+# 変数textに「をマスターしよう」を代入してください
+text = "をマスターしよう"
+
+# 下記の文字列に変数textを連結してください
+puts "HTML" + text
+puts "CSS" + text
+puts "Ruby" + text

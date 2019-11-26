@@ -100,3 +100,17 @@ area = length * width
 # 「面積は◯◯です」となるように出力してください
 puts "面積は#{area}です"
 
+# 1-12
+score = 45
+
+# 条件式を「score > 80」とするif文をつくってください
+if score > 80
+  puts "よくできました"
+end
+
+score = 92
+
+# 条件式を「score > 80」とするif文をつくってください
+if score > 80
+  puts "よくできました"
+end
